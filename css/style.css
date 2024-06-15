@@ -98,13 +98,15 @@
     background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-2.jpg?raw=true") no-repeat 50% 0;
     background-size: cover;
 }
-
 .cube-2 .back {
     background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-2.jpg?raw=true") no-repeat 50% -7vw;
     background-size: cover;
 }
-
 .cube-3 .back {
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-2.jpg?raw=true") no-repeat 50% -14vw;
+    background-size: cover;
+}
+.cube-4 .back {
     background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-2.jpg?raw=true") no-repeat 50% -14vw;
     background-size: cover;
 }
