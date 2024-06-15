@@ -136,6 +136,38 @@
     background-size: cover;
 }
 
+
+.cube-1 .l2 {
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-5.jpg?raw=true") no-repeat 50% 0;
+    background-size: cover;
+}
+
+.cube-2 .l2 {
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-5.jpg?raw=true") no-repeat 50% -7vw;
+    background-size: cover;
+}
+
+.cube-3 .l2 {
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-5.jpg?raw=true") no-repeat 50% -14vw;
+    background-size: cover;
+}
+
+
+.cube-1 .r2 {
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-6.jpg?raw=true") no-repeat 50% 0;
+    background-size: cover;
+}
+
+.cube-2 .r2 {
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-6.jpg?raw=true") no-repeat 50% -7vw;
+    background-size: cover;
+}
+
+.cube-3 .r2 {
+    background: url("https://github.com/bbauska/cubeit/blob/main/images/9-9-slide-img-6.jpg?raw=true") no-repeat 50% -14vw;
+    background-size: cover;
+}
+
 .top {
     height: 42vw;
     background-color: #111;
