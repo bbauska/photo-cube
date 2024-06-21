@@ -58,15 +58,15 @@
     transform: translateZ(21vw);
 }
 .cube-1 .front {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-01.jpg?raw=true") no-repeat 50% 0;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-01.jpg?raw=true") no-repeat 50% 0;
     background-size: cover;
 }
 .cube-2 .front {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-01.jpg?raw=true") no-repeat 50% -7vw;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-01.jpg?raw=true") no-repeat 50% -7vw;
     background-size: cover;
 }
 .cube-3 .front {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-01.jpg?raw=true") no-repeat 50% -14vw;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-01.jpg?raw=true") no-repeat 50% -14vw;
     background-size: cover;
 }
 
@@ -74,15 +74,15 @@
     transform: translateZ(-21vw) rotateY(180deg);
 }
 .cube-1 .back {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-02.jpg?raw=true") no-repeat 50% 0;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-02.jpg?raw=true") no-repeat 50% 0;
     background-size: cover;
 }
 .cube-2 .back {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-02.jpg?raw=true") no-repeat 50% -7vw;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-02.jpg?raw=true") no-repeat 50% -7vw;
     background-size: cover;
 }
 .cube-3 .back {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-02.jpg?raw=true") no-repeat 50% -14vw;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-02.jpg?raw=true") no-repeat 50% -14vw;
     background-size: cover;
 }
 
@@ -90,15 +90,15 @@
     transform: translateX(-21vw) rotateY(-90deg);
 }
 .cube-1 .left {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-03.jpg?raw=true") no-repeat 50% 0;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-03.jpg?raw=true") no-repeat 50% 0;
     background-size: cover;
 }
 .cube-2 .left {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-03.jpg?raw=true") no-repeat 50% -7vw;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-03.jpg?raw=true") no-repeat 50% -7vw;
     background-size: cover;
 }
 .cube-3 .left {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-03.jpg?raw=true") no-repeat 50% -14vw;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-03.jpg?raw=true") no-repeat 50% -14vw;
     background-size: cover;
 }
 
@@ -106,15 +106,15 @@
     transform: translateX(21vw) rotateY(90deg);
 }
 .cube-1 .right {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-04.jpg?raw=true") no-repeat 50% 0;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-04.jpg?raw=true") no-repeat 50% 0;
     background-size: cover;
 }
 .cube-2 .right {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-04.jpg?raw=true") no-repeat 50% -7vw;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-04.jpg?raw=true") no-repeat 50% -7vw;
     background-size: cover;
 }
 .cube-3 .right {
-    background: url("https://github.com/bbauska/photo-cube/blob/main/images/9-9-slide-img-04.jpg?raw=true") no-repeat 50% -14vw;
+    background: url("https://github.com/bbauska/photo-cube/blob/main/images/1-9-9-slide-img-04.jpg?raw=true") no-repeat 50% -14vw;
     background-size: cover;
 }
 
