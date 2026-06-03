@@ -1,3 +1,4 @@
+/* js/script.js of photo-cube for photo-cube.bauska.org */
 const rotate = () => {
   const cubes = document.querySelectorAll(".cube");
 
@@ -5,7 +6,6 @@ const rotate = () => {
     (cube) => (cube.style.transform = `rotateY(${x}deg)`)
   );
 };
-
 const changePlayPause = () => {
   const i = document.querySelector(".play-pause i");
   const cls = i.classList[1];
